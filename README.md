@@ -1,5 +1,6 @@
 # Search Mechanism App
 
+## Download APK
 [![Download APK](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download APK")](https://github.com/RomitKatrodiya/Search_Mechanism_App/raw/master/apk/search_in_list.apk)
 
 ### Features
